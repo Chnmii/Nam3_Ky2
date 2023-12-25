@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Dispose Modal</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js">
+    </script>
+</head>
+
+<body>
+    <button id="clickBtn" class="btn btn-primary">
+        Click Me!
+    </button>
+
+    <div id="myModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Example Modal</h5>
+                    <button id="dismissBtn" type="button" class="close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Body of the Modal
+                </div>
+                <div class="modal-footer">
+                    <button id="closeBtn" class="btn btn-secondary">
+                        Close
+                    </button>
+                    <button id="disposeBtn" class="btn btn-secondary">
+                        Dispose
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script>
+    $(document).ready(function () {
+        $("#clickBtn").click(function () {
+            $("#myModal").modal('show');
+        });
+        $("#dismissBtn").click(function () {
+            $("#myModal").modal('hide');
+        });
+        $("#closeBtn").click(function () {
+            $("#myModal").modal('hide');
+        });
+        $("#disposeBtn").click(function () {
+            $("#myModal").modal('dispose');
+        });
+    });
+</script>
+
+</html>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Areas",
+    "\\Areas\\Admin",
+    "\\Areas\\Admin\\Controllers",
+    "\\Areas\\Admin\\Views",
+    "\\Areas\\Admin\\Views\\HomeAdmin",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\Access",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Views\\Home\\ChiTietSanPham.cshtml",
+  "PreviewInSolutionExplorer": false
+}

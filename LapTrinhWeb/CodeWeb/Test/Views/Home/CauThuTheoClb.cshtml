@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "CauThuTheoClb";
+    Layout = "~/Views/Shared/_LayoutBookStore.cshtml";
+}
+
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Cauthu>
+
+@foreach (var item in Model)
+{
+	<article class="style1">
+		<span class="image">
+			<img src="@Url.Content("../CauThu/images/" + item.Anh)" alt="" />
+		</span>
+		<a href="product-details.html">
+			<h2>@item.HoVaTen</h2>
+
+			<p><del>@item.SoAo</del> <strong>@item.ViTri</strong></p>
+
+			<p>@item.QuocTich</p>
+		</a>
+	</article>
+}
+
+<div class="product__pagination">
+	@Html.PagedListPager(Model, page=>Url.Action("Index", new {page=page}))
+</div>
+
+

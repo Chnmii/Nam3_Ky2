@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Sanvandong>
+<div class="row">
+	<div class="col-sm-12 text-left menu-1">
+		<ul>
+			@foreach (var item in Model)
+			{
+				<li><a href="women.html">@item.TenSan</a></li>
+			}
+		</ul>
+	</div>
+</div>

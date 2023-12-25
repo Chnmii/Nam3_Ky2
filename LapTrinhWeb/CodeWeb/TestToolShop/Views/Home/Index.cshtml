@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutToolShop.cshtml";
+}
+
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<Cauthu>
+
+@foreach (var item in Model)
+{
+    <div class="prod_box">
+        <div class="center_prod_box">
+            <div class="product_title"><a href="#">@item.HoVaTen</a></div>
+            <div class="product_img"><a href="#"><img src="@Url.Content("images/images/" + item.Anh)" alt="" border="0"></a></div>
+            <div class="prod_price"><span class="reduce">@item.QuocTich</span> <span class="price">@item.SoAo</span></div>
+        </div>
+        <div class="prod_details_tab"> <a href="#" class="prod_buy">Add to Cart</a> <a href="#" class="prod_details">Details</a> </div>
+    </div>
+}
+
+

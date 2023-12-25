@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("p").click(function(){
+    $(this).hide();
+  });
+
+  $("div").dblclick(function(){
+  	alert("The paragraph was double-clicked");
+  });
+
+  $(document).mousemove(function(event){
+  	$("span").text(event.pageX + ", " + event.pageY);
+  });
+
+  $("textarea").focus(function(){
+    $("h2").html("Sự kiện focus() vừa xảy ra trên TEXTAREA");
+  });
+
+  $("textarea").keydown(function(){
+     $(this).css("background-color","yellow");
+  });
+
+  $("button").click(function(){
+     $("textarea").keydown();
+  });
+
+});
+</script>
+</head>
+<body>
+	<textarea cols="30" rows="5"></textarea>
+	<hr>
+
+	<button type="button">Click here</button>
+
+    <br>
+
+    <textarea cols="30" rows="5"></textarea>
+
+	<p>If you click on me, I will disappear.</p>
+	<div>Click me away!</div>
+	<p>Click me too!</p>
+
+</body>
+</html>

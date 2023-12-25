@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn1").click(function () {
+                //alert($('[type=text]').val());
+                alert($('input[name=name]').val());
+            });
+            $("#btn2").click(function () {
+                alert($('select[name=cars]').val());
+            });
+            $("#btn3").click(function () {
+                //$('[name=message]').text('Hello world');
+                //$('[name=message]').val('Hello world');
+                alert($('[name=message]').val());
+                //alert($('[name!=message]').val());
+            });
+            $("#btn4").click(function () {
+                $('[name=x]').val($('#a').val() + $('#b').val());
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <form action="/#">
+        <label for="name">First name:</label>
+        <input type="text" id="name" name="name">
+        </br>
+
+        <label for="cars">Choose a car:</label>
+        <select id="cars" name="cars">
+            <option value="volvo" selected>Volvo</option>
+            <option value="saab">Saab</option>
+            <option value="fiat">Fiat</option>
+            <option value="audi">Audi</option>
+        </select>
+        </br>
+        <textarea name="message" rows="10" cols="30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque ad, soluta fuga voluptate incidunt
+        </textarea>
+        </br>
+        <input type="number" id="a" name="a" value="50">
+        +
+        <input type="number" id="b" name="b" value="50">
+        =
+        <output name="x" for="a b"></output>
+        </br>
+    </form>
+
+    <button id="btn1">Input value</button>
+    <button id="btn2">Select value</button>
+    <button id="btn3">Textarea Value</button>
+    <button id="btn4">Add</button>
+</body>
+
+</html>

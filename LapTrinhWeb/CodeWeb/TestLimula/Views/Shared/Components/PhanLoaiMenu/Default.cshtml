@@ -1,0 +1,9 @@
+﻿@model IEnumerable<PhanLoai>
+<ul class="hb-dropdown">
+    @foreach(var item in Model)
+    {
+        string loailink = "/home/sanphamtheoloai?maloai=" + item.MaPhanLoai;
+        <li><a href="@loailink">@item.PhanLoaiChinh</a></li>        
+    }
+    
+</ul>

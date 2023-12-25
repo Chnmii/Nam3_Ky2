@@ -1,0 +1,4 @@
+﻿  BaiKtra_Test.cpp
+D:\Visual Studio Code\CodeWeb\BaiKtra_Test\BaiKtra_Test.cpp(156,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio Code\CodeWeb\BaiKtra_Test\BaiKtra_Test.cpp(159,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BaiKtra_Test.vcxproj -> D:\Visual Studio Code\CodeWeb\BaiKtra_Test\x64\Debug\BaiKtra_Test.exe

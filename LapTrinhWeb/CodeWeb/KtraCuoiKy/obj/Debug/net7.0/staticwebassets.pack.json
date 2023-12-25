@@ -1,0 +1,957 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KtraCuoiKy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KtraCuoiKy.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00001.jpg",
+      "PackagePath": "staticwebassets\\Images\\00001.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00002.jpg",
+      "PackagePath": "staticwebassets\\Images\\00002.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00003.jpg",
+      "PackagePath": "staticwebassets\\Images\\00003.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00004.jpg",
+      "PackagePath": "staticwebassets\\Images\\00004.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00005.jpg",
+      "PackagePath": "staticwebassets\\Images\\00005.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00006.jpg",
+      "PackagePath": "staticwebassets\\Images\\00006.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00007.jpg",
+      "PackagePath": "staticwebassets\\Images\\00007.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00008.jpg",
+      "PackagePath": "staticwebassets\\Images\\00008.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00009.jpg",
+      "PackagePath": "staticwebassets\\Images\\00009.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00010.jpg",
+      "PackagePath": "staticwebassets\\Images\\00010.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00011.jpg",
+      "PackagePath": "staticwebassets\\Images\\00011.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Images\\00012.jpg",
+      "PackagePath": "staticwebassets\\Images\\00012.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\aos.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Layout\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\about_2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\about_3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\bia.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bia.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\coca.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\coca.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\fanta.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\fanta.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\giala.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\giala.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\hoaqua.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hoaqua.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_5.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_6.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img_7.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\masage.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\masage.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\aos.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\Layout\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\Layout\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KtraCuoiKy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KtraCuoiKy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KtraCuoiKy.props",
+      "PackagePath": "build\\KtraCuoiKy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KtraCuoiKy.props",
+      "PackagePath": "buildMultiTargeting\\KtraCuoiKy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KtraCuoiKy.props",
+      "PackagePath": "buildTransitive\\KtraCuoiKy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\KiemTraGiuaKi_1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KiemTraGiuaKi_1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\Poppins\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\ethnocentric\\ethnocentric rg it.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\ethnocentric rg it.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\ethnocentric\\ethnocentric rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\ethnocentric rg.ttf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\ethnocentric\\read-this.html",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\read-this.html"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\fonts\\ethnocentric\\typodermic-eula-02-2014.pdf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\typodermic-eula-02-2014.pdf"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\client.png",
+      "PackagePath": "staticwebassets\\images\\client.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\design-1.png",
+      "PackagePath": "staticwebassets\\images\\design-1.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\design-2.png",
+      "PackagePath": "staticwebassets\\images\\design-2.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\i-1.png",
+      "PackagePath": "staticwebassets\\images\\i-1.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\i-2.png",
+      "PackagePath": "staticwebassets\\images\\i-2.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\i-3.png",
+      "PackagePath": "staticwebassets\\images\\i-3.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\insta.png",
+      "PackagePath": "staticwebassets\\images\\insta.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\next-black.png",
+      "PackagePath": "staticwebassets\\images\\next-black.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\p-1.png",
+      "PackagePath": "staticwebassets\\images\\p-1.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\prev-black.png",
+      "PackagePath": "staticwebassets\\images\\prev-black.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\ring-img.jpg",
+      "PackagePath": "staticwebassets\\images\\ring-img.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Code\\CodeWeb\\KiemTraGiuaKi_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.KiemTraGiuaKi_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.KiemTraGiuaKi_1.props",
+      "PackagePath": "build\\KiemTraGiuaKi_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.KiemTraGiuaKi_1.props",
+      "PackagePath": "buildMultiTargeting\\KiemTraGiuaKi_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.KiemTraGiuaKi_1.props",
+      "PackagePath": "buildTransitive\\KiemTraGiuaKi_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

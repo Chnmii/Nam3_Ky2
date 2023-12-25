@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/stu_id"
+        android:text="masv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/stu_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stu_id"
+        android:textSize="18sp"
+        android:text="tensv"
+
+        />
+    <TextView
+        android:id="@+id/stu_point"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="1800.500"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true">
+    </TextView>
+</RelativeLayout>

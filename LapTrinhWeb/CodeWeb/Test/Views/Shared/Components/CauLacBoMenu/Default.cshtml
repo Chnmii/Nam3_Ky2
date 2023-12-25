@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Caulacbo>
+<nav id="menu">
+	<h2>Menu</h2>
+	<ul>
+		@foreach (var item in Model)
+		{
+            var getUrl = "https://localhost:44321/api/playerapi/" + item.CauLacBoId;
+            <li>
+                <a style="cursor:pointer" onclick="showPlayer('@getUrl')">
+                    @item.TenClb
+                </a>
+            </li>
+
+
+            @*string loailink = "/home/cauthutheoclb?maCLB=" + item.CauLacBoId;
+            <li><a href="@loailink">@item.TenClb</a></li>*@
+
+
+			@*<li><a href="index.html" class="active">@item.TenClb</a></li>*@
+		}	
+
+		
+	</ul>
+</nav>
+
+@*<script>
+    function showPlayer(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `<article class="style1">
+                    <span class="image">
+                        <img src="../CauThu/images/${val.anh}" alt="" />
+                    </span>
+                        <a asp-controller="Home" asp-action="CauThuTheoClb" asp-route-CauLacBoId="${val.CauLacBoId}">
+                        <h2>${val.hoVaTen}</h2>
+
+                        <p><del>${val.soAo}</del> <strong>${val.viTri}</strong></p>
+
+                        <p>${val.quocTich}</p>
+                    </a>
+                </article>`
+                });
+                $('#displayPlayers').html(str);
+            },
+            Error: function (xhr) {
+                alert(xhr.responseText)
+            }
+        });
+    }
+</script>
+*@
+
+<script>
+    function showPlayer(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += '<li>'
+                    str += '<p>' + val.cauThuId + '</p>'
+                    str += '<p>' + val.hoVaTen + '</p>'
+                    str += '</li>'
+                });
+                $('#displayCauthus').html(str);
+            },
+            Error: function (xhr) {
+                alert(xhr.responseText)
+            }
+        });
+    }
+</script>

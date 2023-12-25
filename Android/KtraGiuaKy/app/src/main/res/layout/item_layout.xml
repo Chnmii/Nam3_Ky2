@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/textViewTieude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="4dp"
+
+
+        android:padding="10dp"
+        android:text="Tieu de"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewTacgia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tac gia"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewTieude"
+        android:padding="10dp"
+         />
+
+    <TextView
+        android:id="@+id/textViewSotrang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="So trang"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/textViewTieude"
+        app:layout_constraintBottom_toBottomOf="@id/textViewTacgia"
+        android:padding="10dp"
+         />
+</androidx.constraintlayout.widget.ConstraintLayout>

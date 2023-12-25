@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <style type="text/css">
+        .smallBox {
+            border: 1px solid blue;
+        }
+        .smallInnerBox {
+            border: 1px solid green;
+            margin: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>jQuery clone() example</h1>
+    <div class="smallBox">
+        I'm a small box
+        <div class="smallInnerBox">I'm a small small inner box</div>
+    </div>
+    <button id="cloneButton1">clone()</button>
+    <button id="cloneButton2">clone() button (default)</button>
+    <button id="cloneButton3">clone(true) button</button>
+    <script type="text/javascript">
+        $("#cloneButton1").click(function () {
+            $('.smallBox').clone().insertAfter(".smallBox");
+        });
+        $("#cloneButton2").click(function () {
+            $('#cloneButton1').clone().insertAfter("#cloneButton1");
+        });
+        $("#cloneButton3").click(function () {
+            $('#cloneButton1').clone(true).insertAfter("#cloneButton1");
+        });
+    </script>
+</body>
+
+</html>

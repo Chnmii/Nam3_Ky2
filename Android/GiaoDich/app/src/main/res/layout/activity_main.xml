@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <SearchView
+        android:id="@+id/edTimKiem"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_weight="0.14"
+        android:hint="Tìm kiếm"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/sodu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="sodu"
+        android:textSize="20sp"></TextView>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<!--        <ListView-->
+<!--            android:id="@+id/lsvVeTau"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content">-->
+
+<!--&lt;!&ndash;            <ImageButton&ndash;&gt;-->
+<!--&lt;!&ndash;                android:id="@+id/imageButton2"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                tools:srcCompat="@tools:sample/backgrounds/scenic" />&ndash;&gt;-->
+
+<!--        </ListView>-->
+
+        <ListView
+            android:id="@+id/lsvHoaDon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </ListView>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnadd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="100dp"
+            android:src="@drawable/baseline_add_24"
+            android:contentDescription="Enter How Much Cookies You Want"
+            />
+    </FrameLayout>
+
+
+</LinearLayout>

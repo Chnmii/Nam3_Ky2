@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutNew.cshtml";
+}
+
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Cauthu>
+
+@foreach (var item in Model)
+{
+	<div class="col-lg-3 mb-4 text-center">
+		<div class="product-entry border">
+			<img src="@Url.Content("../Layout/images/" + item.Anh)" class="img-fluid" alt="Free html5 bootstrap 4 template">
+			<div class="desc">
+				<h2><a href="#">@item.HoVaTen</a></h2>
+				<span class="price">@item.SoAo</span>
+				<a asp-controller="Home" asp-action="ProductDetail" asp-route-cauthuid="@item.CauThuId">Edit</a>
+			</div>
+		</div>
+	</div>
+}
+
+<div class="product__pagination">
+	@Html.PagedListPager(Model, page=>Url.Action("Index", new {page=page}))
+</div>
+

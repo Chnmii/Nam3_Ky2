@@ -1,0 +1,30 @@
+﻿<header class="header_section">
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+            <a class="navbar-brand" href="index.html">
+                <img src="images/logo.png" alt="">
+                <span>
+                    Lodge
+                </span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                @await Component.InvokeAsync("QuocGiaSx")
+                <div class="quote_btn-container ">
+                    <a href="">
+                        <img src="images/cart.png" alt="">
+                        <div class="cart_number">
+                            0
+                        </div>
+                    </a>
+                    <form class="form-inline">
+                        <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit"></button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>

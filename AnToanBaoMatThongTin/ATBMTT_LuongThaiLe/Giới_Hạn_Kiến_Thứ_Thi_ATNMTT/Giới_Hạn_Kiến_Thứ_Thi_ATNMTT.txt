@@ -1,0 +1,5 @@
+Cấu trúc đề thi
+1. Mã hóa cổ điển 1 câu - 1 điểm
+2. Mã hóa hiện đại 3 điểm (1 câu trong 3 câu ở trên)
+3. Giải hệ phương trình đồng dư (2) + kiểm tra số có là căn nguyên thủy, logarit rời rạc (1 điểm)
+4. Mã hóa khóa công khai < 3 điểm> 1 trong 4 câu ở trên

@@ -1,0 +1,17 @@
+﻿  HopHoiThoai.cpp
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(182,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(185,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(188,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(194,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(204,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(214,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(246,84): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(249,84): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(252,84): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(257,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(263,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(269,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(289,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(295,88): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+D:\Visual Studio Code\CodeAPI\HopHoiThoai\HopHoiThoai.cpp(307,34): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+  HopHoiThoai.vcxproj -> D:\Visual Studio Code\CodeAPI\HopHoiThoai\x64\Debug\HopHoiThoai.exe

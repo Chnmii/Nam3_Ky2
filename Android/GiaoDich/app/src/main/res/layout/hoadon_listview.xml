@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+
+        android:layout_width="204dp"
+        android:layout_height="98dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tennguoi"
+            android:layout_width="224dp"
+            android:layout_height="wrap_content"
+            android:text="Ten nguoi"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/noidung"
+            android:layout_width="248dp"
+            android:layout_height="wrap_content"
+            android:text="Noi dung"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="325dp"
+        android:layout_height="114dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/ngay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="ngay"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/giatien"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="gia tien"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

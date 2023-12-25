@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button:first").click(function () {
+                $("p:first").replaceWith("<div>Hello world!</div>");
+            });
+            $("button:nth-of-type(2)").click(function () {
+                $("<h2>Hello world!</h2>").replaceAll("p");
+            });
+            $("button:last").click(function () {
+                $("p").remove();
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+    <p>This is a paragraph.</p>
+    <p>This is another paragraph.</p>
+    <p>This is another paragraph.</p>
+    <p>This is another paragraph.</p>
+
+    <button>Replace the first p element with new text</button>
+    <button>Replace all p</button>
+    <button>Delete all p</button>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+﻿@model Cauthu
+<article class="style1">
+	<span class="image">
+		<img src="@Url.Content("../CauThu/images/" + Model.Anh)" alt="" />
+	</span>
+	<a href="product-details.html">
+		<h2>@Model.HoVaTen</h2>
+
+		<p><del>@Model.SoAo</del> <strong>@Model.ViTri</strong></p>
+
+		<p>@Model.QuocTich</p>
+	</a>
+</article>

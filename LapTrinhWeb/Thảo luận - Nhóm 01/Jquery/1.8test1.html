@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn1").click(function () {
+                //alert($("#test1").text());
+                //$("#test1").text("Hello world!");
+                $("#test1 p").text("Hello world!");
+            });
+            $("#btn2").click(function () {
+                //alert($("#test2").html());
+                $("#test2").html("<b>Hello world!</b>");
+            });
+            $("#btn3").click(function () {
+                $("input[name=testName]").val("BUGS");
+            });
+            $("#btn4").click(function () {
+                console.log($("#test1").html());
+                alert($("#test1").prop("outerHTML"));
+            });
+            $("#btn5").click(function () {
+                $("#test2").wrap(`<div style=background-color:red;></div>`);
+            });
+            $("#btn6").click(function () {
+                $("#test2").unwrap();
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="test1">
+        <p>1st paragraph. 1</p>
+        <p>1st paragraph. 2</p>
+    </div>
+    <p id="test2">2nd paragraph.</p>
+    <!-- <p id="test2">3rd paragraph.</p> -->
+    <p>Input field: <input type="text" name="testName" value="Mickey Mouse"></p>
+    <button id="btn1">Set Text</button>
+    <button id="btn2">Set HTML</button>
+    <button id="btn3">Set Value</button>
+    <button id="btn4">outerHTML 1st</button>
+    <button id="btn5">Wrap 2nd</button>
+    <button id="btn6">Unwrap 2nd</button>
+</body>
+
+</html>

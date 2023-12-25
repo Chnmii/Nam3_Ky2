@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = "_LayoutYummy";
+}
+<!DOCTYPE html>
+<html>
+<body>
+    <
+    <h3>User Details</h3>
+    @{
+        var lstuser = ViewBag.lstuser;
+    }
+    @foreach (var p in lstuser)
+    {
+        @p.name
+        <br />
+        @p.address
+        <br />
+        @p.email
+        <br />
+        <br />
+    }
+</body>
+</html>
